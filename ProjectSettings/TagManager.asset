@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - one
+  - two
+  - three
+  - four
+  - five
+  - six
+  - seven
+  - eight
+  - nine
+  - food
+  - Ground
+  - Basket
+  - bomb
+  - sec
+  - music
+  - chain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Table
+    uniqueID: 1739614203
+    locked: 0
+  - name: Paper
+    uniqueID: 2302073817
+    locked: 0
+  - name: Number
+    uniqueID: 3799451731
+    locked: 0
+  - name: Player
+    uniqueID: 1546539755
+    locked: 0
+  - name: Backgroubd
+    uniqueID: 1374568701
+    locked: 0
+  - name: Food
+    uniqueID: 3167324899
+    locked: 0
+  - name: Sdudent
+    uniqueID: 3318261913
+    locked: 0
+  - name: Menu
+    uniqueID: 2490898467
+    locked: 0
